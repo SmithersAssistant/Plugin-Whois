@@ -1,13 +1,13 @@
-# Image Viewer [![npm version](https://img.shields.io/npm/v/smithers-image-viewer.svg?style=flat)](https://www.npmjs.com/package/smithers-image-viewer)
+# Whois [![npm version](https://img.shields.io/npm/v/smithers-whois.svg?style=flat)](https://www.npmjs.com/package/smithers-whois)
 
-An image viewer plugin for the [Smithers Assistant](https://github.com/SmithersAssistant/smithers).
+An whois plugin for the [Smithers Assistant](https://github.com/SmithersAssistant/smithers).
 
 ## Installation
 
 ```
-install smithers-image-viewer
+install smithers-whois
 ```
 
 ## Preview
 
-![](https://d.pr/i/Ip1z+)
+![](https://d.pr/i/vk4b+)
